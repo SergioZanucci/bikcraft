@@ -1,6 +1,6 @@
 # Bikcraft
 
-## Descrição do Projeto
+## Descrição do Projeto 
 
 Bikcraft é um projeto desenvolvido como parte do curso de HTML, CSS e JavaScript da Origamid, com foco em construir um site completo, responsivo e semanticamente estruturado. O objetivo do projeto é simular a presença digital de uma marca fictícia de bicicletas artesanais, apresentando seus produtos, diferenciais e informações institucionais.
 
